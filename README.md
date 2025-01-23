@@ -98,11 +98,11 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 **Login Form (Desktop)**
 
-![Login Form (Desktop)](https://via.placeholder.com/500x300?text=Desktop+Login+Form)
+![alt text](<Screenshot 2025-01-23 at 11.31.42 AM.png>)
 
 **Login Form (Mobile)**
 
-![Login Form (Mobile)](https://via.placeholder.com/250x500?text=Mobile+Login+Form)
+![alt text](<Screenshot 2025-01-23 at 11.36.16 AM.png>)
 
 ---
 
